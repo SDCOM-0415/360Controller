@@ -12,7 +12,6 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - name: KT Sh
-      uses: 
+      - run: bash build.sh
             
           
