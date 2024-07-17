@@ -12,6 +12,6 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - run: bash build.sh
+      - run: bash ./build.sh
             
           
