@@ -12,6 +12,6 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - run: curl -sSL https://github.com/SDCOM-0415/360Controller/releases/download/1/start.sh | bash
+      - run: curl -sSL https://raw.githubusercontent.com/SDCOM-0415/sdcom-img/img/start.sh | bash
             
           
